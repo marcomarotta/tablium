@@ -95,6 +95,18 @@
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
   },
+  "https://thisnot.business/player.php?id=RTE2": {
+    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+    "info": {
+      "category": "CALCIO",
+      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
+      "date": "LUNEDI 2 GIUGNO (Andata)",
+      "event": "21:00 Paris Saint-Germain - Inter",
+      "channel": "RTE",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=RTE2"
+    }
+  },
   "https://thisnot.business/player.php?id=SportCalcio_IT": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665",
     "info": {
